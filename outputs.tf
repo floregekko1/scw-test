@@ -13,6 +13,7 @@ output "kubeconfig" {
   
 }
 
+
 output "lb" {
     value = scaleway_lb_ip.nginx_ip.id
   
