@@ -1,0 +1,15 @@
+#kind: Service
+#apiVersion: v1
+#metadata:
+ # name: hello-world-svc
+ # namespace: app
+#spec:
+ # selector:
+  #  app: hello-world-svc
+  #ports:
+  #- port: 80
+  #type: ClusterIP
+
+
+
+ 
